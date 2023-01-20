@@ -1,0 +1,7 @@
+synchronous ordered
+asynchronous unorderd
+asynchronous unordered
+synchronous ordered
+a django web app is a collection of smaller applications
+HTTP defines a set of request methods to indicate the desired action to be performed for a given resource
+variables are named memory spaces
